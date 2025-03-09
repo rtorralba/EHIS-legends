@@ -2,14 +2,16 @@
 
 Option file for ZX Spectrum's Emlyn Hughes International Soccer game with great old national teams.
 
+![](images/in-game.png)
+
 ## How to use
-    * Load Emlyn Hughes International Soccer.
-    * Go to **Game -> Load All**.
-    * Escribir en "Enter filename:" **LEGENDS**.
-    * Press **fire**.
-    * Put the **option file** tap in your ZX Spectrum.
-    * Press **play**.
-    * **Wait** until load.
+* Load Emlyn Hughes International Soccer.
+* Go to **Game -> Load All**.
+* Escribir en "Enter filename:" **LEGENDS**.
+* Press **fire**.
+* Put [the **option file** tap](https://raw.githubusercontent.com/rtorralba/EHIS-legends/refs/heads/main/EHIS_legends.tap) in your ZX Spectrum.
+* Press **play**.
+* **Wait** until load.
 
 ## Teams included
 * Argentina 86
